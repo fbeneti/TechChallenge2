@@ -205,17 +205,17 @@ Embora o modelo não substitua a avaliação sensorial realizada por especialist
 
 ### Autores:
 
-Fabio Silveira Beneti 
+- Fabio Silveira Beneti
 
-...
+- Jéssica Vieira de Souza
 
-...
+- João Pedro Brito Oliveira
 
-...
+- Mateus Cabral Gama Oliveira
 
-...
+- Matheus Barros de Santana
 
-**Projeto desenvolvido como parte do Tech Challenge – Pós-Tech Data Analytics – FIAP.**
+**Projeto desenvolvido para o Tech Challenge – Fase 2 – Pós-Tech Data Analytics – FIAP**
 
 
 
